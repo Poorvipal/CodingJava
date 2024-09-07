@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.*;
-public class Main{
+public class Numbergame{
     private static final int MIN_RANGE=1;
     private static final int MAX_RANGE=100;;
     private static final int MAX_ATTEMPTS=3;
