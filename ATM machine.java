@@ -59,7 +59,7 @@ class ATM{
         viewBalance();
     }
 }
-public class Main{
+public class ATM_machine{
     public static void main(String[] args){
         Atmoperinter b=new Atmoper();
         int number=123456;
